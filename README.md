@@ -1,5 +1,7 @@
 # Kort downloads
 
+**Easiest way:** open the [Releases page](https://github.com/qaevv/kort-downloads/releases) and pick your system (Windows, macOS or Linux). The folders below hold the same files.
+
 Pick the folder for your system. The file name says the platform, so you can tell them apart.
 
 | System | File | Notes |
